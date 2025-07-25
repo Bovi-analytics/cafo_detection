@@ -1,2 +1,3 @@
 # cafo_detection
-https://bovi-analytics.slack.com/archives/D091N3JRU90/p1753387054198919
+
+(This is a link to the file)[https://bovi-analytics.github.io/farm_detection/dairy_cafos_satellite_map.html]
