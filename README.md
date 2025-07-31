@@ -4,5 +4,5 @@
 
 [This is a link to the filtered map](https://bovi-analytics.github.io/cafo_detection/cafo_filtered.html)
 
-[This is a link to the filtered_labeled map](https://bovi-analytics.github.io/cafo_detection/labeled_farms_map.html)
+[This is a link to the labeled map](https://bovi-analytics.github.io/cafo_detection/labeled_farms_map.html)
 
